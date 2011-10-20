@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  title: MyString
+  location: MyString
+  excerpt: MyString
+  body: MyText
+  published_at: 2011-10-05 22:08:41
+
+two:
+  title: MyString
+  location: MyString
+  excerpt: MyString
+  body: MyText
+  published_at: 2011-10-05 22:08:41
+  
+welcome_to_rails:
+  user: eugene
+  title: "Welcome to Rails"
+  body: "Rails is such a nice web framework written in Ruby"
+  Published_at: <%= 3.days.ago %>
